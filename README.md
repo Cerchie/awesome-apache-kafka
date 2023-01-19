@@ -8,5 +8,4 @@ Lucia's list of awesome Apache Kafka resources. Feel free to PR and add your own
 
 [I <3 Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/) - Based on his popular blog posts, LinkedIn principal engineer Jay Kreps shows you how logs work in distributed systems, and then delivers practical applications of these concepts in a variety of common uses—data integration, enterprise architecture, real-time stream processing, data system design, and abstract computing models.
 
-
-
+[Streaming Audio Podcast](https://developer.confluent.io/podcast/) - Join Kris Jenkins and guests from the community as they discuss the latest Apache Kafka® news, use cases, and trends spanning the topics of data streaming, microservices, modern IT architectures, and the cloud.
