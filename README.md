@@ -1,6 +1,6 @@
 # awesome-apache-kafka
 
-Lucia's list of awesome Apache Kafka resources. Feel free to PR and add your own. 
+_Lucia's list of awesome Apache Kafka resources. Feel free to PR and add your own._
 
 [Apache Kafka 101](https://developer.confluent.io/learn-kafka/apache-kafka/events/) Tim Berglund leads Confluent's course introducing the basic concepts behind Apache Kafka. 
 
