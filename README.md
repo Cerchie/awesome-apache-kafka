@@ -2,6 +2,8 @@
 
 Lucia's list of awesome Apache Kafka resources. Feel free to PR and add your own. 
 
+[Apache Kafka 101](https://developer.confluent.io/learn-kafka/apache-kafka/events/) Tim Berglund leads Confluent's course introducing the basic concepts behind Apache Kafka. 
+
 [Designing Event-Driven Systems](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038252/) - Author Ben Stopford explains how service-based architectures and stream processing tools such as Apache Kafka can help you build business-critical systems. 
 
 [Gently Down the Stream](https://www.gentlydownthe.stream/) - A Gentle Introduction to Apache Kafka
