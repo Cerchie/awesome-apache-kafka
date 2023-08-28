@@ -24,5 +24,5 @@ _Lucia's list of awesome Apache Kafka resources. Feel free to PR and add your ow
 
 [Streaming Audio Podcast](https://developer.confluent.io/podcast/) - Join Kris Jenkins and guests from the community as they discuss the latest Apache Kafka® news, use cases, and trends spanning the topics of data streaming, microservices, modern IT architectures, and the cloud.
 
-
+[Apache KIP - Kafka Improvement Proposal](https://cwiki.apache.org/confluence/display/kafka/kafka+improvement+proposals) - This is the best source of documentation for the Apache Kafka project.  Why's, what's and how's are covered in each document.  Be sure to pay attention to "Rejected alternatives".
 
